@@ -1,7 +1,7 @@
 /*
 * En esta practica vamos incorporar un pulsador de manera que inhabilite 
 * el programa original. Es decir cuando accionamos el pulsador, el programa 
-* debe parar (mientras pulsamos), cuando soltamos el pulsador el programa 
+* debe dejar de encender las luces (mientras pulsamos), cuando soltamos el pulsador el programa 
 * sigue su flujo normal.
 *
 * Autor: Mauro Fernandez 
