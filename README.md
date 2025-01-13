@@ -1,3 +1,3 @@
 # Practica13
-Esta practica funciona exactamente igual a la practica 12 salvo que se le añade una entrada al pin 10 con un pulsador.
-Cuando se acciona este pulsador se debe parar el programa tal y como esta a la hora de la pulsacion.
+Esta practica funciona encendiendo y apagando los LEDs y el relé que controla la bombilla siguiendo la programacion.
+Se le añade un pulsador a la entrada 10, su funcionamiento se basa en que cuando lo pulsas, el programa debe "pararse" y dejar las salidas tal y como estaban.
